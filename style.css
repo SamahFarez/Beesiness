@@ -526,6 +526,10 @@ footer {
   flex-direction: row;
   gap: 250px;
 }
+.explanation{
+  margin-top: -20px;
+}
+
 .second {
   display: flex;
   justify-content: space-between;
