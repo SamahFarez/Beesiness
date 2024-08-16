@@ -1,6 +1,3 @@
-# Beesiness_Team_3.2
-*To visit website: https://beesiness.netlify.app/*
-
 ## Project Overview
 The small business sector plays a crucial role in the economy of Algeria, accounting for a significant portion of the country's GDP and providing employment opportunities for a large number of people. However, these businesses often struggle to compete with larger companies that have more resources and greater brand recognition.
 
